@@ -33,7 +33,7 @@ function App() {
         // url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${
         //   import.meta.env.VITE_API_GENERATIVE_LANGUAGE_CLIENT
         // }`,
-        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyCdM6wspaFApvGvwATxCuOJT6lYGzF4_Wo`,
+        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=token`,
         method: "post",
         data: {
           contents: [{ parts: [{ text: question }] }],
