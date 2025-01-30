@@ -2,7 +2,7 @@
 
 AI Chat App using Generative Language Client API
 
-[chat-ai](https://ai.visheshpandey.com)
+[Devbot-ai](https://devaibot.netlify.app)
 
 ## Setup Procedure
 
